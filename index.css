@@ -1,0 +1,37 @@
+.mainsection{
+  margin-top: 5vw;
+}
+
+.mainsection__logo {
+  margin-left: 5vw;
+}
+
+.mainBody{
+  text-align: center;
+  margin-left: 13vw;
+  margin-right: 13vw;
+  margin-top: 10vh;
+}
+
+.footer{
+  height: 15vw;
+  background-color: black;
+  width: 90%;
+  color:white;
+  padding-top: 5vw;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+.footer__logo{
+  filter: grayscale(100%) brightness(1000%);
+  width: 15vw;
+}
+
+.footer__links{
+  text-align: right;
+}
+
+.footer__social{
+  height: 4vh;
+}
